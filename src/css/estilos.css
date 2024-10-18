@@ -52,3 +52,20 @@ header nav ul a{
     color:#fff;
     font-size: 1.2rem;
 }
+/*Muda de cor ao passar o cursor encima da nav*/
+header nav ul a:hover{
+    text-decoration: underline;
+    color: orange;
+}
+
+.cor {
+    border-radius: 50px;
+}
+.Bicicleta {
+    color: #fff;
+    margin-inline-start: 15px;
+    border: 2px solid;
+    border-radius: 9px;
+    padding: 10px;
+    
+}
