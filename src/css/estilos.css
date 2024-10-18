@@ -69,3 +69,27 @@ header nav ul a:hover{
     padding: 10px;
     
 }
+/*//////////////////////////////////////////*/
+
+/*Estilização do formulário de contato*/
+.home{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+    padding: 1rem;
+    background-color: #055c6b;
+    border: 2px solid gray;
+    border-radius: 15px;
+    width: 420px;
+    height: 280px;    
+}
+
+form div{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+    margin-left: 4px;
+    margin-top: 4px;
+    color: #fff;
+}
