@@ -9,3 +9,13 @@ header .logo {
     text-transform: uppercase;
     letter-spacing: 2px;
 }
+header{
+    font-family: 'Raleway', sans-serif;
+    display: flex;
+    height: 80px;
+    background: #055c6b;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 9px;
+
+}
