@@ -1,0 +1,11 @@
+/*Fonte da logo princiapal*/
+
+header .logo {
+    font-family: 'Raleway', sans-serif; 
+    font-size: 1.7em;
+    font-weight: 700;
+    color: #fff;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
